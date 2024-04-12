@@ -74,22 +74,27 @@ plt.show()
 ## Output:
 ## ORIGINAL IMAGE:
 
-![samurai](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/153921be-d89b-4248-87fc-2ee1e2dba4ca)
+![dipt 1](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/a77a2d52-7fdf-4525-a113-a132a8eea8af)
+
 
 ### SOBEL EDGE DETECTOR:
-![Screenshot 2024-04-02 114529](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/1c121c40-51f5-413c-81aa-c17661196160)
+![dipt 2](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/7e5e6bd1-a9a1-4c02-8a52-97209e63ce00)
 
-![Screenshot 2024-04-02 114543](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/2b7cb9ca-7db2-43b5-ae34-4c594a8ca331)
+![dipt 3](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/cfa52b96-5ecb-420d-bd89-1d1ca573bf57)
 
-![Screenshot 2024-04-02 114553](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/89e7aef1-6752-4a7e-9161-af85442b05af)
+![dipt 4](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/a582d59e-76e4-4efb-955c-a4051f395f17)
+
+
 
 ### LAPLACIAN EDGE DETECTOR
 
-![Screenshot 2024-04-02 114603](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/a70b62da-331d-4ad1-84ff-56a8895fd6b4)
+![dipt 5](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/5a3be5ba-c811-46e0-8e73-982859fd912e)
+
 
 ### CANNY EDGE DETECTOR
 
-![Screenshot 2024-04-02 114612](https://github.com/DINESH18032004/EDGE-DETECTION/assets/119477784/3c0126ea-800e-4922-a52e-e698564b8a37)
+![dipt 6](https://github.com/praveenmax55/EDGE-DETECTION/assets/113497509/d20523ae-a2b5-4520-ad8b-c90b8661afc7)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
